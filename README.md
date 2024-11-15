@@ -14,5 +14,7 @@ Jika STRONG INTEGRITY tidak tersedia, inilah perbedaan kecil dari memiliki peran
 - jika Anda menggunakan aplikasi driver uber, kemungkinan besar Anda perlu melakukan unroot atau memiliki perangkat cadangan di stock rom.
 
 Sayajuga merilis file KEYBOX & PIF.
+
 Untuk cara pemasangan manual bisa kamu lihat di video yang saya tambahkan di sini jika kamu belum paham cara memasang secara manual.
+
 Tonton video cara pemasangan manual file PIF+KEYBOX, jika kalian hanya memerlukan KEYBOX+PIF nya saja.
