@@ -1,7 +1,11 @@
-Saat ini kami memiliki STRONG-INTEGRITY-RCS & NO REVOKE (V-3.3.2) namun jika gagal, Anda selalu dapat menggunakan wizard integritas (V-D1) untuk meneruskan perangkat dan perangkat tidak akan dicabut.
+Saat ini kami memiliki FILE FIX STRONG-INTEGRITY versi MODULE untuk pengguna PERANGKAT ROOT Magisk/APatch/KernelSU.
+- VERSI 1 = integrity-WIZARD(V-3.3.2).zip - Ini Module UNIVERSAL untuk semua jenis ROM Original Maupun Costum Rom lainnya, Jika Versi 1 Bermasalah Gunakan Versi 2.
+- VERSI 2 = (LOS)integrity-WIZARD(V-3.3.2).zip - Ini HANYA untuk ROM Sejenis Lineage OS!!!!!!, Ini seharusnya menyelesaikan masalah Selinux dengan pengguna LOS.
+- Namun jika masih gagal saat menggunakan V.1 & V.2, Anda selalu dapat menggunakan wizard integritas (V-3.3.1) (CADANGAN), untuk meneruskan perangkat dan perangkat tidak akan dicabut.
 
 
-Jika kuat tidak tersedia, inilah perbedaan kecil dari memiliki perangkat:
+
+Jika STRONG INTEGRITY tidak tersedia, inilah perbedaan kecil dari memiliki perangkat:
 
 - jika suatu aplikasi memerlukan integritas yang kuat, Anda tidak dapat menggunakannya dalam banyak kasus. (namun sebagian besar aplikasi tidak melakukannya).
 - sangat sedikit perubahan yang akan dialami sebagian besar pengguna.
